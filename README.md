@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kriiif
+- 👋 Hi, I’m Fikri Firmansyah
 - 👀 I’m interested in Program language
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some project
