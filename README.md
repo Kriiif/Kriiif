@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fikri Firmansyah
-- 👀 I’m interested in Program language
+- 👀 I’m interested in Programming language
 - 🌱 I’m currently learning Python
 - 📫 How to reach me dm's me on X @FKriiif
 
