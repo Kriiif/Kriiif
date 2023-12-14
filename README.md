@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fikri Firmansyah
-- 👀 I’m interested in Programming language
+- 👀 I’m CS undergraduate 
 - 🌱 I’m currently learning Python n Dlang
 - 📫 How to reach me dm's me on X @FKriiif
 
