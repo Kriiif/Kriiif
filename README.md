@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fikri Firmansyah
 - 👀 I’m CS undergraduate 
-- 🌱 I’m currently learning Python n Dlang
+- 🌱 I’m currently learning Python n C++
 - 📫 How to reach me dm's me on X @FKriiif
 
 <!---
