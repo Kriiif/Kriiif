@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fikri Firmansyah
 - 👀 I’m CS undergraduate 
-- 🌱 I’m currently learning Front Dev n C++
+- 🌱 I’m currently learning Front Dev 
 - 📫 How to reach me dm's me on X @FKriiif
 
 <!---
